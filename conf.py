@@ -18,4 +18,4 @@ INSERT_SQL = "insert into house_table (`title`, `url`, `md5`, `comments_num`, `p
 
 # 爬取的起始和结束页码
 START_PAGE = 1
-END_PAGE = 10
+END_PAGE = 100
